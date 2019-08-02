@@ -1,0 +1,17 @@
+C:\Users\Carvalho\Documents\JavaProjects\SistemaDeTransportadora\src\main\java\com\ifma\sistemadetransportadora\infra\ConnectionPool.java
+C:\Users\Carvalho\Documents\JavaProjects\SistemaDeTransportadora\src\main\java\com\ifma\sistemadetransportadora\testes\TesteRetornaCidadeMaisFretes.java
+C:\Users\Carvalho\Documents\JavaProjects\SistemaDeTransportadora\src\main\java\com\ifma\sistemadetransportadora\modelo\Cliente.java
+C:\Users\Carvalho\Documents\JavaProjects\SistemaDeTransportadora\src\main\java\com\ifma\sistemadetransportadora\modelo\Frete.java
+C:\Users\Carvalho\Documents\JavaProjects\SistemaDeTransportadora\src\main\java\com\ifma\sistemadetransportadora\dao\FreteDAO.java
+C:\Users\Carvalho\Documents\JavaProjects\SistemaDeTransportadora\src\main\java\com\ifma\sistemadetransportadora\testes\TesteFrete.java
+C:\Users\Carvalho\Documents\JavaProjects\SistemaDeTransportadora\src\main\java\com\ifma\sistemadetransportadora\dao\CidadeDAO.java
+C:\Users\Carvalho\Documents\JavaProjects\SistemaDeTransportadora\src\main\java\com\ifma\sistemadetransportadora\testes\TesteRetornaFreteMaiorValor.java
+C:\Users\Carvalho\Documents\JavaProjects\SistemaDeTransportadora\src\main\java\com\ifma\sistemadetransportadora\modelo\FreteMaiorValor.java
+C:\Users\Carvalho\Documents\JavaProjects\SistemaDeTransportadora\src\main\java\com\ifma\sistemadetransportadora\dao\ClienteDAO.java
+C:\Users\Carvalho\Documents\JavaProjects\SistemaDeTransportadora\src\main\java\com\ifma\sistemadetransportadora\testes\TesteCalculaValorFrete.java
+C:\Users\Carvalho\Documents\JavaProjects\SistemaDeTransportadora\src\main\java\com\ifma\sistemadetransportadora\testes\TesteRecuperaFretesDeCliente.java
+C:\Users\Carvalho\Documents\JavaProjects\SistemaDeTransportadora\src\main\java\com\ifma\sistemadetransportadora\modelo\CidadeMaisFretes.java
+C:\Users\Carvalho\Documents\JavaProjects\SistemaDeTransportadora\src\main\java\com\ifma\sistemadetransportadora\testes\TesteCliente.java
+C:\Users\Carvalho\Documents\JavaProjects\SistemaDeTransportadora\src\main\java\com\ifma\sistemadetransportadora\testes\TesteCidade.java
+C:\Users\Carvalho\Documents\JavaProjects\SistemaDeTransportadora\src\main\java\com\ifma\sistemadetransportadora\modelo\Cidade.java
+C:\Users\Carvalho\Documents\JavaProjects\SistemaDeTransportadora\src\main\java\com\ifma\sistemadetransportadora\infra\Database.java
